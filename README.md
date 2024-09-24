@@ -1,6 +1,6 @@
 # E-commerce-website
 
-#Features
+Features
 User Registration: ShopCart allows users to register as customers or sellers, enabling a tailored shopping experience.
 
 Cart System: Customers can add products to their cart for easy checkout. The cart allows them to review and manage their selections before completing the purchase.
@@ -15,7 +15,7 @@ Product Management: Sellers can add products with detailed information and set t
 
 Order Tracking: Sellers can monitor the products ordered by customers, helping them stay organized and fulfill orders efficiently.
 
-#Technologies Used
+Technologies Used
 Frontend: React.js, Material UI, Redux Toolkit, Styled Components
 Backend: Node.js, Express.js, JWT Token
 Database: MongoDB
